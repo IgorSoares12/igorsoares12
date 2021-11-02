@@ -1,17 +1,21 @@
 # Igor Soares
 
-- 🔭 Delphi developer on  Fortes Tecnologia;
+- 🔭 .NET developer on Farmácias Pague Menos;
 - 🌱 Currently learning: 
       <img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/%20-Kotlin-yellowgreen" />
+      <img src="https://img.shields.io/badge/%20-ReactJS-brightgreen" />
       
 </br>
 <details>
 	<summary>Skills</summary>
 	<ul>
-    <li><img src="https://img.shields.io/badge/%20-Delphi-red" /></li>
-	  <li><img src="https://img.shields.io/badge/HTML5-ff7851" /></li>
-	  <li><img src="https://img.shields.io/badge/CSS3-44b2fb" /></li>
-    <li><img src="https://img.shields.io/badge/Bootstrap -563d7c" /></li>
+    	  <li><img src="https://img.shields.io/badge/%20-Delphi-red" /></li>
+	  <li><img src="https://img.shields.io/badge/%20-C%23-blue" /></li>
+	  <li><img src="https://img.shields.io/badge/%20-ReactJS-brightgreen" /></li>
+	  <li><img src="https://img.shields.io/badge/SQL Server-ff7851" /></li>
+	  <li><img src="https://img.shields.io/badge/Oracle-44b2fb" /></li>
+    	  <li><img src="https://img.shields.io/badge/Postgres -563d7c" /></li>
+	  
   </ul>
 </details>
 
