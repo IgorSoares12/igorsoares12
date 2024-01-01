@@ -1,6 +1,6 @@
 # Igor Soares
 
-- 🔭 .NET developer on Farmácias Pague Menos;
+- 🔭 Java developer on Grupo Secrel;
 - 🌱 Currently learning: 
       <img src="https://img.shields.io/badge/%20-C%23-blue" /> <img src="https://img.shields.io/badge/%20-Kotlin-yellowgreen" />
       <img src="https://img.shields.io/badge/%20-ReactJS-brightgreen" />
