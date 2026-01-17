@@ -2,8 +2,8 @@
 
 - 🔭 Senior developer on Lynx Process;
 - 🌱 Currently learning: 
-      <img src="https://img.shields.io/badge/Java-orange" /> <img src="https://img.shields.io/badge/%20-C%23-blue" />
-      <img src="https://img.shields.io/badge/%20-Kotlin-yellowgreen" /> <img src="https://img.shields.io/badge/%20-ReactJS-brightgreen" />
+      <img src="https://img.shields.io/badge/ElectronJS-orange" /> <img src="https://img.shields.io/badge/%20-PHP-blue" />
+      <img src="https://img.shields.io/badge/%20-C++-yellowgreen" /> <img src="https://img.shields.io/badge/%20-ReactJS-brightgreen" />
       
 </br>
 <details>
