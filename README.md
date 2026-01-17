@@ -11,6 +11,7 @@
 	<ul>
     	  <li><img src="https://img.shields.io/badge/%20-Delphi-red" /></li>
 	  <li><img src="https://img.shields.io/badge/%20-C%23-blue" /></li>
+	  <li><img src="https://img.shields.io/badge/%20-Java-lightblue" /></li>
 	  <li><img src="https://img.shields.io/badge/%20-ReactJS-brightgreen" /></li>
 	  <li><img src="https://img.shields.io/badge/SQL Server-ff7851" /></li>
 	  <li><img src="https://img.shields.io/badge/Oracle-44b2fb" /></li>
